@@ -1,8 +1,9 @@
 # Body Performance
 
 ### Overview:
-https://www.kaggle.com/datasets/kukuroo3/body-performance-data
+
 This project is designed to predict the body performance level based on age, gender, and other exercise performance data from kaggle. The goal is to build a model that accurately predicts the body performance index using the available data. 
+https://www.kaggle.com/datasets/kukuroo3/body-performance-data
 
 ### Data Analysis:
 The first step is to load the dataset from a CSV file into a DataFrame. Missing values are checked, and the dataset is balanced based on gender. Data distribution in the dataset is analyzed, and categorical values are converted to numerical values.
